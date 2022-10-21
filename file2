@@ -1,3 +1,5 @@
 hi this is file2
 edited by remote to test fetch
 commit message from remote
+
+this is edited by serverA to test merge conflict
