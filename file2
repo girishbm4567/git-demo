@@ -3,3 +3,6 @@ edited by remote to test fetch
 commit message from remote
 
 this is edited by serverB to test merge conflict
+
+
+to test stash
